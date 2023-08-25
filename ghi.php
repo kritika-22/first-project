@@ -1,2 +1,2 @@
 <?php
-echo'have a great day';
+echo'Dev Branch have a great day';
